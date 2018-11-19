@@ -19,6 +19,8 @@ public class Espejo {
 
     public static void main(String[] args){
 
+
+        System.out.println(Inversa.inversaCadena(espejoCadena("teclado")));
         System.out.println(espejoCadena("teclado"));
 
     }
